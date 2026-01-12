@@ -12,4 +12,4 @@
 ## Projects
 - 🔗 [Project Name](https://github.com/username/project)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savern02)](https://github.com/Savern02/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savern02)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,16 +1,15 @@
-## Hi there 👋
+# "Dreamss breathe life into men and can cage them in suffering. Men live and die by their dreams, but long after they're abandoned, they still smolder deep in men's hearts" - Berserk Vol. 6 
 
-<!--
-**Savern02/Savern02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Software developer
+- 🌱 Currently learning ReactTS
+- 🚀 Interested in open source
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript, Python, GO, Java
+- React, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🔗 [Project Name](https://github.com/username/project)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Savern02)

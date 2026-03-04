@@ -6,7 +6,7 @@
 ## About Me
 - 💻 Software developer
 - 🌱 Currently learning ReactTS
-- 🚀 Interested in open source
+- 🚀 Interested in UX/UI desgin 
 
 ![](https://github-readme-stats.vercel.app/api?username=Savern02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Savern02&theme=tokyonight&hide_border=false)<br/>
